@@ -1,3 +1,0 @@
-<footer>
-    FOOTER HERE
-</footer>
